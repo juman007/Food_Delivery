@@ -9,7 +9,7 @@ import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 const App = () => {
-   const API_URL = "https://food-del-backend-saqf.onrender.com/";
+   const API_URL = "https://food-del-backend-saqf.onrender.com";
    return (
       <div>
          <ToastContainer />
